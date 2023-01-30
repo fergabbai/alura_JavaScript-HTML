@@ -5,5 +5,5 @@
 Para rodar esse projeto na sua máquina:
 
 ```
-Abrir arquivos no Google Chrome
+Abra os arquivos no Google Chrome
 ```
